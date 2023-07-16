@@ -3,7 +3,6 @@
     padding: 0;
 
 }
-
 #banner {
     background: linear-gradient(rgba(0, 0, 0, 0.5), #009686), url(img/hight.jpg);
     background-size: cover;
